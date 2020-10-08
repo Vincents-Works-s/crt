@@ -57,5 +57,4 @@ while play_again == True:
         print(f"{name}'s winning percentage: {round(you_win_percent, 2)}%")
         print(f"Computer's winning percentage: {round(pc_win_percent, 2)}%")
         
-        
         play_again = False
